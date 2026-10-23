@@ -1,0 +1,73 @@
+#EXTM3U url-tvg="http://pskovline.tv/epg/jtv.zip"
+#EXTINF:1,ТВ3
+http://tvhls.pskovline.tv:8080/tv67/index.m3u8
+#EXTINF:2,Суббота
+http://tvhls.pskovline.tv:8080/tv164/index.m3u8
+#EXTINF:3,Патриот
+http://tvhls.pskovline.tv:8080/tv17/index.m3u8
+#EXTINF:4,KinoJam 1
+http://tvhls.pskovline.tv:8080/tv33/index.m3u8
+#EXTINF:5,Синема
+http://tvhls.pskovline.tv:8080/tv38/index.m3u8
+#EXTINF:6,Советская киноклассика
+http://tvhls.pskovline.tv:8080/tv34/index.m3u8
+#EXTINF:7,Индийское кино
+http://tvhls.pskovline.tv:8080/tv42/index.m3u8
+#EXTINF:8,Киномикс
+http://tvhls.pskovline.tv:8080/tv46/index.m3u8
+#EXTINF:9,Русский бестселлер
+http://tvhls.pskovline.tv:8080/tv56/index.m3u8
+#EXTINF:10,Shot TV
+http://tvhls.pskovline.tv:8080/tv60/index.m3u8
+#EXTINF:11,НТВ ХИТ
+http://tvhls.pskovline.tv:8080/tv70/index.m3u8
+#EXTINF:12,Кинопоказ
+http://tvhls.pskovline.tv:8080/tv72/index.m3u8
+#EXTINF:13,Дом Кино Премиум HD
+http://tvhls.pskovline.tv:8080/tv74/index.m3u8
+#EXTINF:14,AmediaHit HD
+http://tvhls.pskovline.tv:8080/tv191/index.m3u8
+#EXTINF:15,Наше новое кино
+http://tvhls.pskovline.tv:8080/tv90/index.m3u8
+#EXTINF:16,Русский детектив
+http://tvhls.pskovline.tv:8080/tv105/index.m3u8
+#EXTINF:17,Амедиа 2
+http://tvhls.pskovline.tv:8080/tv121/index.m3u8
+#EXTINF:18,Мужское кино
+http://tvhls.pskovline.tv:8080/tv129/index.m3u8
+#EXTINF:19,KinoLiving
+http://tvhls.pskovline.tv:8080/tv125/index.m3u8
+#EXTINF:20,SAGA TV
+http://tvhls.pskovline.tv:8080/tv137/index.m3u8
+#EXTINF:21,Русский роман
+http://tvhls.pskovline.tv:8080/tv141/index.m3u8
+#EXTINF:22,Киносвидание
+http://tvhls.pskovline.tv:8080/tv203/index.m3u8
+#EXTINF:23,Кинокомедия
+http://tvhls.pskovline.tv:8080/tv146/index.m3u8
+#EXTINF:24,Амедиа 1
+http://tvhls.pskovline.tv:8080/tv152/index.m3u8
+#EXTINF:25,Кино ТВ
+http://tvhls.pskovline.tv:8080/tv154/index.m3u8
+#EXTINF:26,Золотая коллекция
+http://tvhls.pskovline.tv:8080/tv163/index.m3u8
+#EXTINF:27,Русский Иллюзион
+http://tvhls.pskovline.tv:8080/tv167/index.m3u8
+#EXTINF:28,Иллюзион+
+http://tvhls.pskovline.tv:8080/tv168/index.m3u8
+#EXTINF:29,Еврокино
+http://tvhls.pskovline.tv:8080/tv171/index.m3u8
+#EXTINF:30,Дом кино
+http://tvhls.pskovline.tv:8080/tv197/index.m3u8
+#EXTINF:31,Киносерия
+http://tvhls.pskovline.tv:8080/tv156/index.m3u8
+#EXTINF:32,Звезда Плюс
+http://tvhls.pskovline.tv:8080/tv159/index.m3u8
+#EXTINF:33,Родное кино
+http://tvhls.pskovline.tv:8080/tv160/index.m3u8
+#EXTINF:34,Индия
+http://tvhls.pskovline.tv:8080/tv239/index.m3u8
+#EXTINF:35,Победа
+http://tvhls.pskovline.tv:8080/tv241/index.m3u8
+#EXTINF:36,Тайна
+http://tvhls.pskovline.tv:8080/tv174/index.m3u8
